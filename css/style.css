@@ -1,0 +1,161 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Raleway';
+    box-sizing: border-box;
+}
+.sec1{
+    background-image: url(../img/header-bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+   text-align: center;
+padding-top: 40vh;
+color: white;
+}
+.container h1{
+  font-size: 110px;
+  font-weight: bolder;
+}
+.container h3{
+    font-size: 50px;
+    font-weight:200;
+  
+}
+.text-content{
+    padding: 70px;
+}
+.text-content p{
+    font-weight: 501;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 1.1px;
+    line-height: 1.3;
+
+}
+  .text-content p span{
+    color: #7b7b7b;
+
+}
+.clear{
+    clear: both;
+}
+.float-img{
+    padding: 30px;
+    background-color: #eee;
+    color: black;
+}
+.float-img .item{
+    float: left;
+    font-weight: 100;
+    width: 25%;
+    text-align: center;
+}
+.float-img h1{
+    font-weight: 400;
+    padding: 30px;
+    color: #333;
+    text-align: center;
+}
+.float-img h4{
+    font-size: 20px;
+    margin-top: 10px;
+   
+}
+.float-img p{
+    line-height: 1.8;
+    padding: 20px;
+}
+.float-img p, .float-img h4{
+    font-weight: 400;
+color: #333;
+}
+.cop1 .item{
+    width:33.33333333333333333%;
+}
+.cop1{
+background-color: #e0e0e0;
+padding: 100px;
+}
+.cop2{
+    background-image: url(../img/portfolio-bg.jpg);
+    width: 100%;
+    background-size: cover;
+    color: white;
+  
+}
+.cop2 .item h4,.cop2 h1{
+    color: white;
+}
+.cop2 h1{
+    font-size: 24px;
+    padding-bottom: 60px;
+}
+.about,.flb{
+    background-color: #e0e0e0;
+}
+.about-text{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding: 80px;
+}
+.about-text h2{
+
+    font-weight: 400;
+    color: #333;
+    padding-bottom: 60px;
+}
+.about-text p,.flb .item span{
+    color: #333; 
+    line-height: 1.9;
+    font-size: 14px;
+}
+.flb img{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+.flb .item:hover{
+    background-color: white;
+    
+}
+.black{
+    padding: 150px;
+    width: 100%;
+ text-align: center;
+ background-color: #333;
+ color: white;
+}
+.black .itemm{
+    float: left;
+    width: 33.333333333333333333333333%;
+}
+.black h1{
+    padding-bottom: 60px;
+}
+
+.itemm h3{
+    padding-top: 30px;
+    font-weight: 400;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.footer p{
+    padding: 10px;
+}
+.footer .p1 span{
+    font-weight: bold;
+}
+.footer .p2 span{
+    color: #f85c37;
+}
